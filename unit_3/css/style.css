@@ -1,0 +1,24 @@
+body {
+	background: url('images/creme_brulee.jpg');
+	background-size: cover;
+	color: #000;
+	font-family: Helvetica;
+}
+
+h1, p {
+	text-align: center;
+	color: #000;
+}
+
+#slogan {
+	font-style: italic;
+}
+
+hr {
+	width: 400px;
+	color: #000;
+}
+
+ul {
+	text-align: center;
+}
