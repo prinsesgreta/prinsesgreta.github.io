@@ -1,7 +1,7 @@
 body {
-	background-color: #FFE299
+	background-color: #000
 }
 
-h1, p {
-	color: #A9A9A9
+h1, h2, h3, h5, p {
+	color: #FFF
 }
