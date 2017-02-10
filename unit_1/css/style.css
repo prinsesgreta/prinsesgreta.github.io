@@ -1,7 +1,40 @@
 body {
-	background-color: #000
+	background-color: #FFF;
+}
+
+h1, h3 {
+	font-family: "Josefin Sans", sans-serif;
+}
+
+h2, h5, p {
+	font-family: Helvetica, sans-serif;
 }
 
 h1, h2, h3, h5, p {
-	color: #FFF
+	color: #7A7C7F;
 }
+
+h1 {
+	font-weight: 700;
+}
+
+h2, h5 {
+	font-weight: 400;
+}
+
+h3, p {
+	font-weight: 100;
+}
+
+h1, h3 {
+	text-align: center;
+}
+
+
+/* CREATIONS [Code copied from Unit 3, lesson 5. Needs to be tweaked, once I figure out how.]
+div {
+	width: 150px;
+	height: 150px;
+	border: 2px solid black;
+	display: inline-block;
+	margin: 20px;*/
