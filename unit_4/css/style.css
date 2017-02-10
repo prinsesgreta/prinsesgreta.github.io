@@ -1,0 +1,49 @@
+
+@import url('https://fonts.googleapis.com/css?family=Crimson+Text|Josefin+Sans:300,400');
+
+
+body {
+	background-color: #FFF;
+	color: #7A7C7F;
+	margin: 2em;
+}
+
+h1 {
+	font-family: "Josefin Sans", sans-serif;
+	text-align: center;
+	font-weight: 700;
+}
+
+h2 {
+	font-family: 'Crimson Text', serif;
+}
+
+h4 {
+	font-family: "Josefin Sans", sans-serif;
+}
+
+h2, h4 {
+	font-weight: 400;
+}
+
+p, li {
+	font-family: 'Crimson Text', serif;
+	font-weight: 100;
+}
+
+hr {
+	width: 300px;
+}
+
+#slogan {
+	font-family: "Josefin Sans", sans-serif;
+	text-align: center;
+}
+
+/* FOR THE 'CREATIONS' SECTION [Code copied from Unit 3, lesson 5. Needs to be tweaked, once I figure out how.]
+div {
+	width: 150px;
+	height: 150px;
+	border: 2px solid black;
+	display: inline-block;
+	margin: 20px;*/
